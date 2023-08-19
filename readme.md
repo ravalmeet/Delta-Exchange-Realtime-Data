@@ -45,7 +45,8 @@ To retrieve options instruments for a specific symbol (e.g., 'BTC'), use the fol
 options_data = DeltaExAPI.get_instruments_options('BTC')
 ```
 
-##Retrieving Historical Data
+## Retrieving Historical Data
+
 To retrieve historical data for a specific symbol (e.g., 'BTCUSDT') with a given resolution (e.g., 'D' for daily) and a maximum time period (e.g., 7 days), use the 
 
 following code:
