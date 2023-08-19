@@ -23,19 +23,19 @@ The module includes a list of available futures symbols, which can be used for t
 
 'BTCUSD', 'BCHUSDT', 'ETCUSDT', 'LINKUSDT', 'TRXUSDT', 'BTCUSDT', 'ETHUSDT', 'XRPUSDT', 'LTCUSDT', 'BNBUSDT', 'ATOMUSDT', 'XTZUSDT', 'ETHBTC', 'VETUSDT', 'ALGOUSDT', 'SNXUSDT', 'DOTUSDT', 'UNIUSDT', 'COMPUSDT', 'AVAXUSDT', 'AAVEUSDT', 'XLMUSDT', 'ADAUSDT', 'XMRUSDT', 'SUSHIUSDT', 'DOGEUSDT', '1INCHUSDT', 'SOLUSDT', 'FILUSDT', 'MATICUSDT', 'CRVUSDT', 'SHIBUSDT', 'CHZUSDT', 'MANAUSDT', 'SANDUSDT', 'HBARUSDT', 'FTMUSDT', 'STXUSDT', 'NEARUSDT', 'DYDXUSDT', 'ARUSDT', 'RSRUSDT', 'ETHUSD', 'MKRUSDT', 'APEUSDT', 'OPUSDT', 'LDOUSDT', 'INJUSDT', 'APTUSDT', 'MASKUSDT', 'ARBUSDT', 'CFXUSDT', 'SUIUSDT', 'RNDRUSDT'
 
-##List of Options Symbols
+## List of Options Symbols
 
 The module provides access to a list of available options symbols for trading:
 
 'BTCUSDT', 'ETHUSDT'
 
-##TimeFrames
+## TimeFrames
 
 The module supports various timeframes for historical data retrieval, including:
 
 '1', '2', '3', '5', '15', '30', '45', '60', '120', '360', 'D' (daily)
 
-##Usage
+## Usage
 
 Retrieving Options Instruments
 
