@@ -1,7 +1,3 @@
-Certainly! Here's the updated README format with the list of symbols separated by commas:
-
-markdown
-Copy code
 # DeltaExAPI
 
 ## Introduction
