@@ -15,7 +15,7 @@ No installation is required for this module. You can simply import the `DeltaExA
 ```python
 from DeltaExAPI import DeltaExAPI
 ```
-Features
+
 
 ## List of Futures Symbols
 
